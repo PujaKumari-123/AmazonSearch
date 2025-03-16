@@ -1,4 +1,4 @@
-##Selenium Assignment - Amazon Search Test
+Selenium Assignment - Amazon Search Test
 
 Overview
 
