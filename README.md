@@ -1,4 +1,4 @@
-Selenium Assignment - Amazon Search Test
+##Selenium Assignment - Amazon Search Test
 
 Overview
 
@@ -106,4 +106,4 @@ The XPath used to locate elements is still valid.
 
 Author
 
-Your Name
+Prince Raj
